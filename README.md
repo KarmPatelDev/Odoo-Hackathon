@@ -3,7 +3,7 @@
 ### Video Link : https://drive.google.com/file/d/1lj58_yoFouO5wbcLXXth8vm9JXDlsm6r/view
 
 ### Technologies Used:
-- **Frontend**: React, Redux, Material-UI/Bootstrap
+- **Frontend**: React, ContextAPI, Material-UI/Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT
