@@ -24,9 +24,18 @@ Creating a full-stack application for furniture renting involves developing both
 5.Payment Integration
   - Integrate payment gateways (e.g., UPI, Stripe) to facilitate secure online payments for rentals.
   - Provide users with payment confirmation and receipts.
+
+### Technologies Used:
+- **Frontend**: React, Redux, Material-UI/Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT
+- **Payments**: Braintree (PayPal)
+- **Chatbot**: (To be implemented)
     
 ## How To Start Code -:
 
+```
 cd frontend
 
 npm i
@@ -40,3 +49,5 @@ cd backend
 npm i
 
 npm start
+
+```
