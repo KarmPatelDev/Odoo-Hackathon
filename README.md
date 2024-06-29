@@ -1,5 +1,15 @@
 ## Furniture Rental System
 
+## Video Link : https://drive.google.com/file/d/1lj58_yoFouO5wbcLXXth8vm9JXDlsm6r/view
+
+### Technologies Used:
+- **Frontend**: React, Redux, Material-UI/Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT
+- **Payments**: Braintree (PayPal)
+- **Chatbot**: (To be implemented)
+- 
 ## Describtion : 
 Creating a full-stack application for furniture renting involves developing both the frontend and backend components to manage user interactions, inventory management, payments, and booking processes. 
 
@@ -24,14 +34,6 @@ Creating a full-stack application for furniture renting involves developing both
 5.Payment Integration
   - Integrate payment gateways (e.g., UPI, Stripe) to facilitate secure online payments for rentals.
   - Provide users with payment confirmation and receipts.
-
-### Technologies Used:
-- **Frontend**: React, Redux, Material-UI/Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT
-- **Payments**: Braintree (PayPal)
-- **Chatbot**: (To be implemented)
     
 ## How To Start Code -:
 
